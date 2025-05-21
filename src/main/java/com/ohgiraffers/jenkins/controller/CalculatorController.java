@@ -1,7 +1,7 @@
-package com.meowdule.jenkins.controller;
+package com.ohgiraffers.jenkins.controller;
 
-import com.meowdule.jenkins.dto.CalculatorDTO;
-import com.meowdule.jenkins.service.CalculatorService;
+import com.ohgiraffers.jenkins.dto.CalculatorDTO;
+import com.ohgiraffers.jenkins.service.CalculatorService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

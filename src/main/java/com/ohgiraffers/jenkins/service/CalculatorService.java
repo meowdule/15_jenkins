@@ -1,6 +1,6 @@
-package com.meowdule.jenkins.service;
+package com.ohgiraffers.jenkins.service;
 
-import com.meowdule.jenkins.dto.CalculatorDTO;
+import com.ohgiraffers.jenkins.dto.CalculatorDTO;
 import org.springframework.stereotype.Service;
 
 @Service
